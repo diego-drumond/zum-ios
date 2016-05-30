@@ -82,3 +82,7 @@ https://waffle.io/Hotmart-Org/hack-app
 - iOS | Marco Túlio / Filipe
 - API | Matador / Pit / Vesgo
 - Design | Cella
+
+
+## Apresentação 19/05
+https://docs.google.com/presentation/d/17gGeeS_u0BDub2xQll7QgA8vGnKFb-nRKc9JtG86fTU
