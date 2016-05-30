@@ -73,11 +73,9 @@ https://zpl.io/Ze5pb9
 (hackathon@hotmart.com.br 123456)
 
 
-## Waffle
-https://waffle.io/Hotmart-Org/hack-app
-
 ## Slack
 https://zum-app.slack.com
+
 
 ## Responsáveis
 - Gerente | Silver
